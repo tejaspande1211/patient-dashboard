@@ -70,12 +70,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # patient-dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Patient Dashboard
+This is a responsive React application for managing patient records, built for Jarurat Care. Users can view, search, and add patient details in a clean, modern interface. The dashboard utilizes React Hooks for state management and Bootstrap for adaptive layout.
+[here is the website](https://patient-dashboard-app.netlify.app/)
 
-## Features
-- View, search, add and manage patient records
-- Responsive UI with Bootstrap
-- Modal details and forms, loading/error states
+Key features include:
+
+Responsive landing page with branding and navigation
+
+Fetch and display patient records from a free API (JSON Placeholder)
+
+Search/filter by patient name in real time
+
+Detailed patient view modal
+
+Add new patient (local-only, no backend)
+
+Loading and error handling
+
+Mobile-friendly styling using Bootstrap
+
+## screenshorts
+![Landing Page](image.png)
+![Patients Page](image-1.png)
+![About](image-2.png)
 
 ## Available Scripts
 - `npm start` — Runs the app locally at [http://localhost:3000](http://localhost:3000)
