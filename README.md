@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# patient-dashboard
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+- View, search, add and manage patient records
+- Responsive UI with Bootstrap
+- Modal details and forms, loading/error states
+
+## Available Scripts
+- `npm start` — Runs the app locally at [http://localhost:3000](http://localhost:3000)
+- `npm test` — Runs test runner
+- `npm run build` — Builds for production
+
+## Setup
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
